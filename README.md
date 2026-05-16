@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ahmed Ebrahim
 
-<!--
-**C1earVision/C1earVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Computer Science Senior EJUST2026
+Focused on Artificial Intelligence, Machine Learning, and Data Science.
 
-Here are some ideas to get you started:
+### Main Tech Stack
+`PyTorch` `TensorFlow` `LangChain`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Building end-to-end AI and ML systems
+- Interested in LLMs and AI applications
+- Published research in procedural content generation
+- I also have alot of experience creating Rest APIs using Node.js/Express.js
